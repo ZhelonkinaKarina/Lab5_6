@@ -22,5 +22,4 @@ public class LinearPrograms {
         double res = (double)Math.floor(x);
         System.out.println("Округлене число:" + res);
        }
-
 }
